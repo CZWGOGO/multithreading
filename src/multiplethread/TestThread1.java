@@ -31,7 +31,5 @@ public class TestThread1 {
         Battle battle2=new Battle(garen,bh);
         new Thread(battle2).start();
 
-
-
     }
 }
