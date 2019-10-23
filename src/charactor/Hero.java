@@ -4,7 +4,7 @@ package charactor;
  * Created by CZWGOGO on 2019/10/21 19:10
  */
 
-//不使用多线程的情况
+//adugen 技能冷却
 public class Hero {
     public String name;
     public float hp;
