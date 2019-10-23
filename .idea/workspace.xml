@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4a957d4d-8cc7-4514-bdfd-54605f4fa8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestThread2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestThread2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestThread2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestThread2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/charactor/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/charactor/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestSearchThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/multiplethread/TestSearchThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/charactor/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/charactor/Hero.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,9 +48,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSearchThread">
-    <configuration name="TestSearchThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiplethread.TestSearchThread" />
+  <component name="RunManager" selected="Application.TestThread7">
+    <configuration name="TestThread3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread3" />
       <module name="multithreading" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread" />
+    <configuration name="TestThread4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread4" />
       <module name="multithreading" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +75,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="charactor.TestThread" />
+    <configuration name="TestThread5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread5" />
       <module name="multithreading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="charactor.*" />
+          <option name="PATTERN" value="multiplethread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread6" />
+      <module name="multithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multiplethread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread7" />
+      <module name="multithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multiplethread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,9 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSearchThread" />
-        <item itemvalue="Application.TestThread (1)" />
-        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.TestThread7" />
+        <item itemvalue="Application.TestThread6" />
+        <item itemvalue="Application.TestThread5" />
+        <item itemvalue="Application.TestThread4" />
+        <item itemvalue="Application.TestThread3" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571655595307</updated>
-      <workItem from="1571655619997" duration="21363000" />
+      <workItem from="1571655619997" duration="29305000" />
     </task>
     <servers />
   </component>
