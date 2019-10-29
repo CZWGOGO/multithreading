@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a957d4d-8cc7-4514-bdfd-54605f4fa8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/charactor/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/charactor/Hero.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/charactor/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/charactor/Hero.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,26 +46,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hero">
+  <component name="RunManager" selected="Application.TestThread8">
     <configuration name="Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="charactor.Hero" />
       <module name="multithreading" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="charactor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThread4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread4" />
-      <module name="multithreading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiplethread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestThread8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplethread.TestThread8" />
+      <module name="multithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multiplethread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestThread8" />
         <item itemvalue="Application.Hero" />
         <item itemvalue="Application.TestThread7" />
         <item itemvalue="Application.TestThread6" />
         <item itemvalue="Application.TestThread5" />
-        <item itemvalue="Application.TestThread4" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571655595307</updated>
-      <workItem from="1571655619997" duration="37511000" />
+      <workItem from="1571655619997" duration="41314000" />
+      <workItem from="1572275567599" duration="4727000" />
     </task>
     <servers />
   </component>
@@ -145,7 +145,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
